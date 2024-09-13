@@ -19,7 +19,7 @@ for(int j=low;j<high;j++)
         return i+1;
 
         --> j value is index 0.
-        -->     pi value is high value of array.
+        --> pi value is high value of array.
         --> i value is 1 less than low.
 
         -->It works on nlogn.
